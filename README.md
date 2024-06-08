@@ -1,4 +1,5 @@
 # pension_calc_backend
+For the frontend, see pension_calc_frontend (https://github.com/tibor-reiss/pension_calc_frontend)
 
 ## Project setup
 ```
