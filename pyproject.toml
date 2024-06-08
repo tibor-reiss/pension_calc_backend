@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pension-calc-backend"
+version = "0.1.0"
+description = ""
+authors = ["Tibor Reiss <tibor.reiss@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^5.0.6"
+django-cors-headers = "^4.3.1"
+django-rest-framework = "^0.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
